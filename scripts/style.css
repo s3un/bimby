@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+.firstmarg  {
+    margin-top: 90px;
+}
+
+
+.layout {
+    border: 1px solid red;
+   
+}
+
+
+.wall1 {
+    margin-top: 53px;
+    background-color: purple;
+}
+
+.hometext {
+    font-family: 'Bungee Outline', cursive;
+    font-size: 70px;
+    padding-top: 70px;
+
+}  
+
+.hometext1 {
+    font-family: 'Bungee Outline', cursive;
+    font-size: 70px;
+    padding-top: 70px;
+    text-shadow:rgba(58,78,95,0.2) 0 2px 16px, rgba(58,78,95,0.05) 0 -5px 16px;
+
+} 
+
+.hometext2 {
+    padding-bottom: 100px;
+    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+}  
+
+.subwall    {
+    background-image: url("../img/fashion.png");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow:rgba(58,78,95,0.2) 0 2px 16px, rgba(58,78,95,0.05) 0 -5px 16px;
+    cursor: pointer;
+}
+
+.subfont    {
+    padding-top: 170px;
+    
+}
+
+.subwall1    {
+    background-image: url("../img/original.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow:rgba(58,78,95,0.2) 0 2px 16px, rgba(58,78,95,0.05) 0 -5px 16px;
+    cursor: pointer;
+}
+
+
+
+/* footer */
+
+.panel-footer {
+    background-color: purple;
+}
+
+.panel-sub {
+    background-color: rgb(0, 47, 255);
+}
+
+
+.social-media   {
+    background-color: purple;
+}
+
+.catfont {
+    font-family: 'Pacifico', cursive;
+   
+}
+
+.buttile2    {
+    background-color: #800020;
+    border: 1px solid #800020;
+    width: 150px;
+    border-radius: 100px;
+    color: #dfdfdf
+}
+
+.buttile2:hover {
+    background: transparent;
+    color: #800020;
+    border: 1px solid #800020;
+}
+
+/* footer */
+    .fotile {
+        font-family: 'Pacifico', cursive;
+        border-bottom: 1px solid white;
+    }
+
+    .fotile2 {
+        font-family: 'Cairo', sans-serif;
+        
+        
+    }
+
+    .lowerfot   {
+        background-color: blanchedalmond;
+    }
+
+
+/* endfooter */
+
+/* login */
+#logbody    {
+    background-image: url("../img/just.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.logset {
+    background: transparent;
+    border: 2px solid #800020;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    
+}
+
+.logset2 {
+    background: transparent;
+    border: 2px solid #800020;
+    border-radius: 100px;
+    
+}
+
+.butset {
+   width : 348px;
+    margin-top: 30px;
+    border-radius: 100px;
+    background-color: #800020;
+    border: 1px solid #800020;
+    color: #dfdfdf;
+}
+
+.butset:hover   {
+    background:transparent;
+    color: #800020;
+    border: #800020 1px solid;
+}
+
+.butset1 {
+    width: 410px; 
+    margin-top: 30px;
+    border-radius: 100px;
+    background-color: #800020;
+    border: 1px solid #800020;
+}
+
+.minbut {
+    width: 243px; 
+    margin-top: 30px;
+    border-radius: 100px;
+    background-color: #800020;
+    border: 1px solid #800020;
+    color: #dfdfdf;
+}
+
+.minbut:hover   {
+    background: transparent;
+    color: #800020;
+}
+
+.butset1:hover   {
+    background:transparent;
+    color: #800020;
+    border: #800020 1px solid;
+    
+}
+
+
+
+.normalbut  {
+    background-color: #800020;
+    border: 1px solid #800020;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.normalbut:hover  {
+    background:transparent;
+    color: #800020;
+    border: 1px solid #800020;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.normalbut:active    {
+    color: #800020;
+}
+
+/* endlogin */
+
+/* about us */
+.imagewall  {
+   
+    height: 220px;
+    width: 220px;
+    margin-top: 170px;
+    border-radius: 100px;
+    box-shadow:rgba(58,78,95,0.2) 0 2px 16px, rgba(58,78,95,0.05) 0 -5px 16px;
+}
+
+.imagewall img  {
+    width: 220px;
+    height: 220px;
+    max-width: 230px;
+    max-height: 230px;
+    border-radius: 100px;
+    
+    border: #800020 4px solid;
+}
+
+/* end about us */
+
+/* contactus */
+.conset {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.contact    {
+    box-shadow:rgba(58,78,95,0.2) 0 2px 16px, rgba(58,78,95,0.05) 0 -5px 16px;
+}
+
+.conset2    {
+    border-bottom: #dfdfdf 1px solid;
+}
+
+.butset2 {
+    width: 100px;
+    margin-top: 30px;
+    border-radius: 100px;
+    background-color: #800020;
+    border: 1px solid #800020;
+    margin-bottom: 20px;
+    color: #dfdfdf
+}
+
+.butset2:hover   {
+    background: transparent;
+    color: #800020;
+
+}
+
+.justtext   {
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+}
+
+/* endcontact */
+
+/* makeup */
+
+.mini-col img   {
+    margin: 0 auto;
+    max-width: 251px;
+    height: 270px;
+    cursor: pointer;
+    border: 3px solid #800020;
+}
+
+.divtex {
+    text-align: center;
+}
+  
+.shaset   {
+    box-shadow:rgba(58,78,95,0.2) 0 2px 16px, rgba(58,78,95,0.05) 0 -5px 16px;
+  }
+/* endmakeup */
+
+
+/* fashion */
+.fashset    {
+    margin-bottom: 90px;
+}
+
+.normfont   {
+    
+}
+
+
+/* endfashion */
